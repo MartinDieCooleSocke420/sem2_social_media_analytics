@@ -1,0 +1,5 @@
+# Ignore access_token.txt
+access_token.txt
+
+# Ignore .venv directory
+.venv/
